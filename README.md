@@ -1,7 +1,7 @@
 
 Suria Babaei<br>FrontEnd Developer
 
-
+https://avatars.githubusercontent.com/u/96353904?v=4
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suria-babaei-b89b08272) 
 
