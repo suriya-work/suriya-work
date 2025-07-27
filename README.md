@@ -1,5 +1,5 @@
 
-Soraya Babaei<br>FrontEnd Developer
+Ava Babaei<br>FrontEnd Developer
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suria-babaei-b89b08272) 
 
